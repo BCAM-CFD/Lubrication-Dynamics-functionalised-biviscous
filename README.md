@@ -15,6 +15,8 @@ This code has been developed  in a collaboration between
  Developers: Adolfo Vazquez-Quesada.
              Jose Esteban Lopez-Aguilar.
 
+  contact: a.vazquez-quesada@fisfun.uned.es, jelopezaguilar@quimica.unam.mx, mellero@bcamath.org
+
  Code  for  simulating  suspensions  of  spherical  particles  in  a
  functionalized biviscous  fluid. The  hydrodynamic interactions  are
  modeled through lubrication  forces, so the code is  expected to be
