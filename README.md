@@ -1,4 +1,6 @@
 # Lubrication-Dynamics-functionalised-biviscous
+![alt text](https://github.com/BCAM-CFD/Lubrication-Dynamics-functionalised-biviscous/blob/main/biviscous_functionalised.png)
+
 Code for suspensions in functionalised biviscous matrices with a lubrication dynamics model.
 
 This code has been developed  in a collaboration between
